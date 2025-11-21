@@ -1,6 +1,5 @@
 # 🌐 TradArc: The Generative AI Cross-Border Procurement Co-Pilot
 
-## 💡 Tagline
 Your One-Sentence Cross-Border Procurement Co-Pilot for the Global South.
 
 ## 📝 Executive Summary
